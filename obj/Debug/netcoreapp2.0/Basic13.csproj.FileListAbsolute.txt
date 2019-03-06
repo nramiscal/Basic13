@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/CSharp/Basic13/bin/Debug/netcoreapp2.0/Basic13.deps.json
+/Users/nramiscal/Desktop/CSharp/Basic13/bin/Debug/netcoreapp2.0/Basic13.runtimeconfig.json
+/Users/nramiscal/Desktop/CSharp/Basic13/bin/Debug/netcoreapp2.0/Basic13.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/CSharp/Basic13/bin/Debug/netcoreapp2.0/Basic13.dll
+/Users/nramiscal/Desktop/CSharp/Basic13/bin/Debug/netcoreapp2.0/Basic13.pdb
+/Users/nramiscal/Desktop/CSharp/Basic13/obj/Debug/netcoreapp2.0/Basic13.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/CSharp/Basic13/obj/Debug/netcoreapp2.0/Basic13.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/CSharp/Basic13/obj/Debug/netcoreapp2.0/Basic13.AssemblyInfo.cs
+/Users/nramiscal/Desktop/CSharp/Basic13/obj/Debug/netcoreapp2.0/Basic13.dll
+/Users/nramiscal/Desktop/CSharp/Basic13/obj/Debug/netcoreapp2.0/Basic13.pdb
